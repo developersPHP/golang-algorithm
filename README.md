@@ -5,4 +5,6 @@
 
 
 ## 目录
-- [算法- 选择排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter1.md)
+- [算法一 选择排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter1.md)
+
+- [算法二 插入排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter2.md)
