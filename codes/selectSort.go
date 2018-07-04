@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-
 	var e = []int{432, 432432, 4234, 333, 333, 21, 22, 3, 30, 8, 20, 2, 7, 9, 50, 80, 1, 4}
 	res := sort(e)
 	fmt.Printf("排序后的结果为%d", res)
