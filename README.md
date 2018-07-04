@@ -12,3 +12,5 @@
 - [算法三 希尔排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter3.md)
 
 - [算法四 归并排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter4.md)
+
+- [算法四 快速排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter5.md)
