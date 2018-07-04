@@ -8,3 +8,5 @@
 - [算法一 选择排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter1.md)
 
 - [算法二 插入排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter2.md)
+
+- [算法三 希尔排序](https://github.com/developersPHP/golang-algorithm/blob/master/files/chapter3.md)
