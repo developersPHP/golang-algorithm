@@ -26,3 +26,5 @@
 - [数据结构一 单向链表](https://github.com/developersPHP/golang-algorithm/blob/master/files/struct1.md)
 
 - [数据结构一 栈](https://github.com/developersPHP/golang-algorithm/blob/master/files/struct2.md)
+
+- [数据结构一 队列](https://github.com/developersPHP/golang-algorithm/blob/master/files/struct3.md)
